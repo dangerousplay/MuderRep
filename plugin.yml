@@ -1,0 +1,19 @@
+name: Muderer
+main: Main.Main
+author: DangerousPlay
+version: 1.0
+depend: [CraftLandiaCoreD]
+commands:
+  start:
+  npc:
+  npcs:
+  sbt:
+  sbm:
+  addscraploc:
+  desconfiar:
+    aliases: [d,des]
+  inocentar:
+    aliases: [i,ino]
+  bug:
+  neutro:
+    aliases: [n,neu]
